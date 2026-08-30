@@ -1,0 +1,21 @@
+Package: dbblue-postgres
+Version: 19~beta2-1
+Architecture: amd64
+Maintainer: Cybrosys Technologies <dbblue@cybrosys.info>
+Depends: libc6 (>= 2.35), libicu70 (>= 70.1-1~), liblz4-1 (>= 0.0~r130), libreadline8 (>= 6.0), zlib1g (>= 1:1.1.4), adduser
+Filename: pool/jammy/main/dbblue-postgres_19~beta2-1_amd64.deb
+Size: 9191808
+MD5sum: c93ce5ae202aa6ad4bcb8309eaf57150
+SHA1: f62047d864d7558a845717826896b90b61ba2cfc
+SHA256: add210b1ddf7027fb959596ad72de9bb7921709960b88d009b61d1411c4fc085
+Section: database
+Priority: optional
+Homepage: https://github.com/cybrosystech/postgres
+Description: DBblue - Odoo-tuned PostgreSQL 19 database server
+ DBblue is a PostgreSQL 19 fork tuned for Odoo workloads. It bundles an
+ incremental materialized view engine, an in-memory columnar accelerator,
+ and the pgvector extension, and defaults wal_compression to lz4.
+ .
+ The server installs under /opt/dbblue/19 and runs as the "dbblue" systemd
+ service on port 5432 (listening on localhost by default).
+
