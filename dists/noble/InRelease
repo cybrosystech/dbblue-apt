@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: noble
+Components: main
+Date: Mon, 31 Aug 2026 11:40:35 +0000
+Label: DBblue
+Origin: DBblue
+Suite: noble
+MD5Sum:
+ 4b17c341b42d3766cee5438ebb074b98              134 Release
+ 9d63151b198afdb701ddc3024657b4f4              989 main/binary-amd64/Packages
+ 99d63a5ef4617eb2c5c4e4f0d9becda0              663 main/binary-amd64/Packages.gz
+SHA1:
+ 00be1fcf71f5d6ed0e1c860b32dec1507789a1f2              134 Release
+ 8914d9da8d018e1160c15330ef1a25402d20135a              989 main/binary-amd64/Packages
+ cabca17dfc190bdb869a1b5da5870987c04064db              663 main/binary-amd64/Packages.gz
+SHA256:
+ aa034b63e1dede3ed24c6f417c30602ea9c45efd62e734cc24505243898a8bd5              134 Release
+ 7fbd72fe32a96f55a765c5269806e437a5103a77d941f87e15aac33b91facfc7              989 main/binary-amd64/Packages
+ 29f270e3eff71dff1fc1f4d8dae91f8365c12334f777430f0429eed19551fa38              663 main/binary-amd64/Packages.gz
+SHA512:
+ 2dbc4736ae67640b710dce742c2e52034d08568cb563c5fa1a4d12b8e8d47de02c2602ca2a34009c588812b6e2c69187213cf87abedca77a5f8f4fc74c97ee5b              134 Release
+ 8b5e645471a6e31f914ec72054fb29c3d8392597e266962b30e150d21910c7347080e6b792917da41a89aedab3ac8967adc1a6d7c0c374fd35aa46cb7072fde8              989 main/binary-amd64/Packages
+ ad4e899bcdd1ad7d4be2d2e2d7e48682e86a61ed171fc62f4ee64d6b252be0d92e8dccb7c541adf19388dc23de370df9d6f002455779b596e26d9643f9e042ab              663 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQHJBAEBCgAzFiEExbuXPHdzajYhsEjQqKLpSp+anYMFAmqVaDMVHGRiYmx1ZUBj
+eWJyb3N5cy5pbmZvAAoJEKii6Uqfmp2DN5wL/3Yt+pnHkdxJ07AQf6pRJtHQfJ0W
+pzj1QeS/62MVEWGUP/eWKzXcyxPkUQ1mA6wWI6+4fViZ1CHbTGGBOZf4cIKKCraO
+0Q0pMNzVJ89IdQ+X+mDF3FlU550WrDLikTpLjHvW5QLzRrhmXgRhOSAzSqJriTNS
+bCdseHblwzAw9f2az6QWH8rds3NS5Uft459z+2pxBvvcvRpwcYZS//FyhXSklZGO
+nNU0160nlJ9VRSnm3iDmIwpGsL20yB45kua56zMvLl4CdJYZtjXXnmiLoKzg8Lif
+q3/4zmuIaJqqzIT75ran373YWriVw22KfDtFAIJ1rgSc0UwHOGoNUWhmC9r2O1cs
+6zhtUL26av9qUZEbZH1lAdyBp6RqFUJMfeJZxrDWMVuBodUXV70H2g9/tAv4UEBw
+qY4udCaeTGHVnv7EeCCboF7f3C3Vc1pAQJqL3bDAiLuEHWhojOdbI5D4yGKOSqCA
+pgXIdQkWrBOnST78GrfqNChg7DYppj8LdtcDSQ==
+=/AIa
+-----END PGP SIGNATURE-----
