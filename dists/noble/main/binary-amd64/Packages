@@ -4,10 +4,10 @@ Architecture: amd64
 Maintainer: Cybrosys Technologies <dbblue@cybrosys.info>
 Depends: libc6 (>= 2.38), libicu74 (>= 74.1-1~), liblz4-1 (>= 0.0~r130), libreadline8t64 (>= 6.0), zlib1g (>= 1:1.1.4), adduser
 Filename: pool/noble/main/dbblue-postgres_19~beta2-1_amd64.deb
-Size: 9087768
-MD5sum: 5a691b1dbb5df201b3dd269cc9f3a453
-SHA1: e5740065417dc3f49b36d9bd89429942c0623ded
-SHA256: 8d4d7370e5a5580edb9d4118ff1fc422de43afb9904fb63fb1f01a0188a65c1a
+Size: 9088114
+MD5sum: 08ea8867d11f559f1e0c296151ede45a
+SHA1: be151cfd62ab0b0563ac22dad5639720309712eb
+SHA256: 48d768e6242e6f593d699625820edcc5ff5c91da7c5f54e645a05e6e042295ef
 Section: database
 Priority: optional
 Homepage: https://github.com/cybrosystech/postgres
